@@ -43,7 +43,9 @@
         <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"/><br>
         <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"/> 
         <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black"/>  <br><br>
-A maioria dos projetos tem como foco inteligência artificial e redes neurais. Mas com certa curiosidade, sempre tentarei algo novo nessa área a tecnologia. </p>
+A maioria dos projetos tem como foco inteligência artificial e redes neurais. Mas com certa curiosidade, sempre tentarei algo novo nessa área a tecnologia. <br><br>
+"𝐎 𝐛𝐚𝐭𝐞𝐫 𝐝𝐞 𝐚𝐬𝐚𝐬 𝐝𝐞 𝐮𝐦𝐚 𝐛𝐨𝐫𝐛𝐨𝐥𝐞𝐭𝐚 𝐧𝐨 𝐁𝐫𝐚𝐬𝐢𝐥 𝐩𝐨𝐝𝐞 𝐩𝐫𝐨𝐯𝐨𝐜𝐚𝐫 𝐮𝐦 𝐟𝐮𝐫𝐚𝐜ã𝐨 𝐧𝐨 𝐓𝐞𝐱𝐚𝐬".    
+    </p>
 </div>
 <br>
 <div>
