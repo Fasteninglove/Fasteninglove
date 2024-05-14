@@ -22,7 +22,6 @@
 <divd>
 <p align="center">
     <a href="https://www.youtube.com/channel/UCq2nY9SHpCL8pc2GDWFn9q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
-    <a href="https://www.instagram.com/vinicius_v_2/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
     <a href="mailto:fasteninglove@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     <br><br>Bem-vindo(a) à página da Borboleta Vermelha no GitHub. Esse é um pequeno lugar para eu compartilhar projetos relacionados ao canal no YouTube e aos blogs. Aqui você encontrará uma variedade de projetos diferentes, desde códigos de exemplo de tutoriais até projetos práticos desenvolvidos e apresentados no canal. O objetivo aqui é fornecer e compartilhar os projetos. Sinta-se à vontade para explorar os repositórios, contribuir e criar seus projetos.
  </p>
